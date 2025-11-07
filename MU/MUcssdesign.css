@@ -1,0 +1,16 @@
+body {
+  font-family: 'Righteous', sans-serif;
+  height: 100vh;
+
+  background:
+    url("monsters_logo_small.png") no-repeat top left,  /* image on top */
+    linear-gradient(to bottom, #D7D9D3 0%, #D7D9D3 15%, transparent 15%, transparent 100%),
+    linear-gradient(to right, #93D5FB 0%, #93D5FB 28%, #007DC4 28%, #007DC4 100%);
+
+  background-size: auto;
+}
+
+
+h1 {
+	text-align:center;
+}
